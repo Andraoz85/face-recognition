@@ -1,5 +1,5 @@
 # Face Recognition Models Comparison
-This repository hosts a comparison between two prominent open-source models for face recognition: Dlib's HOG (Histogram of Oriented Gradients) with SVM (Support Vector Machine) and OpenCV with Haar-Cascade classifier, alongside a comprehensive guide on how to implement these models using your own image dataset.
+This repository hosts a comparison between two prominent open-source models for face recognition: Dlib's HOG (Histogram of Oriented Gradients) with SVM (Support Vector Machine) and OpenCV with Haar-Cascade classifier, alongside a guide on how to implement these models using your own image dataset.
 
 ## Mounting Your Drive in Google Colab  
 To access your image dataset stored in Google Drive, mount your drive using:
