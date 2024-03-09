@@ -25,6 +25,7 @@ To evaluate the model, calculate the precision, recall, and F1 score using the c
 TP = # true positives count
 FP = # false positives count
 FN = # false negatives count
+```
 
 ## License  
 The project is open-source and available under the MIT License as found in the LICENSE.md file.
