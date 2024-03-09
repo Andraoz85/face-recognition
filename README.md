@@ -26,17 +26,5 @@ TP = # true positives count
 FP = # false positives count
 FN = # false negatives count
 
-# Calculate performance metrics
-Precision, Recall, F1_Score = calculate_performance_metrics(TP, FP, FN)
-```
-Replace # true positives count, # false positives count, and # false negatives count with the actual counts from your model's performance.
-
-## Visualization of Metrics
-The repository includes a script to visualize the calculated metrics as a bar chart:  
-```
-# This will display a bar chart of Precision, Recall, and F1 Score
-plt.show()
-```
-
 ## License  
 The project is open-source and available under the MIT License as found in the LICENSE.md file.
